@@ -15,7 +15,7 @@ Readonly::Scalar my $EMPTY_STR => q{};
 Readonly::Scalar my $SPACE => q{ };
 
 # Version.
-our $VERSION = 0.01;
+our $VERSION = 0.02;
 
 # Pretty print.
 sub err_pretty {
@@ -195,6 +195,6 @@ BSD license.
 
 =head1 VERSION
 
-0.01
+0.02
 
 =cut
