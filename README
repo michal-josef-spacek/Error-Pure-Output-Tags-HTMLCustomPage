@@ -1,0 +1,28 @@
+NAME
+    Error::Pure::Output::Tags::HTMLCommonPage - TODO
+
+SYNOPSIS
+    TODO
+
+SUBROUTINES
+    err_pretty()
+            TODO
+
+EXAMPLE
+    TODO
+
+DEPENDENCIES
+    HTTP::Headers::Fast, Readonly.
+
+SEE ALSO
+    Error::Pure.
+
+AUTHOR
+    Michal Špaček skim@cpan.org
+
+LICENSE AND COPYRIGHT
+    BSD license.
+
+VERSION
+    0.01
+
