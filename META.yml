@@ -27,6 +27,7 @@ requires:
   Exporter: 0
   HTTP::Headers::Fast: 0
   Readonly: 0
+  perl: 5.8.0
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Error-Pure-Output-Tags-HTMLCustomPage
   homepage: https://github.com/tupinek/Error-Pure-Output-Tags-HTMLCustomPage
