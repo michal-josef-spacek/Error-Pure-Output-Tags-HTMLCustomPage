@@ -99,6 +99,9 @@ SEE ALSO
     Task::Error::Pure
         Install the Error::Pure modules.
 
+REPOSITORY
+    <https://github.com/tupinek/Error-Pure-Output-Tags-HTMLCustomPage>
+
 AUTHOR
     Michal Špaček <mailto:skim@cpan.org>
 
