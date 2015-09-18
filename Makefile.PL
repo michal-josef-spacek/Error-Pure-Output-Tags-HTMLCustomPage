@@ -21,7 +21,7 @@ resources 'homepage' => 'https://github.com/tupinek/'.
 	'Error-Pure-Output-Tags-HTMLCustomPage';
 resources 'repository' => 'git://github.com/tupinek/'.
 	'Error-Pure-Output-Tags-HTMLCustomPage';
-test_requires 'File::Spec::Functions' => 0;
+test_requires 'Test::NoWarnings' => 0;
 test_requires 'Test::More' => 0;
 test_requires 'Test::Pod' => 0;
 test_requires 'Test::Pod::Coverage' => 0;

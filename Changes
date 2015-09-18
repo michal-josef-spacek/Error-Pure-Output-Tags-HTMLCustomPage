@@ -1,5 +1,6 @@
 0.03
  - Add minimal version of Perl.
+ - Fix test dependencies.
  - Remove diacritics from author name.
  - Update Module::Install to 1.16 version.
 
