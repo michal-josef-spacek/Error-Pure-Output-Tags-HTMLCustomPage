@@ -15,7 +15,7 @@ Readonly::Scalar my $EMPTY_STR => q{};
 Readonly::Scalar my $SPACE => q{ };
 
 # Version.
-our $VERSION = 0.03;
+our $VERSION = 0.04;
 
 # Pretty print.
 sub err_pretty {
@@ -208,6 +208,6 @@ L<http://skim.cz>
 
 =head1 VERSION
 
-0.03
+0.04
 
 =cut
