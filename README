@@ -96,7 +96,8 @@ DEPENDENCIES
     HTTP::Headers::Fast, Readonly.
 
 SEE ALSO
-    Error::Pure.
+    Task::Error::Pure
+        Install the Error::Pure modules.
 
 AUTHOR
     Michal Špaček skim@cpan.org

@@ -183,7 +183,13 @@ L<Readonly>.
 
 =head1 SEE ALSO
 
-L<Error::Pure>.
+=over
+
+=item L<Task::Error::Pure>
+
+Install the Error::Pure modules.
+
+=back
 
 =head1 AUTHOR
 
