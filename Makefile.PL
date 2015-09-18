@@ -7,7 +7,7 @@ use inc::Module::Install;
 
 # Definition.
 abstract 'Error::Pure HTML output helper.';
-author 'Michal Špaček <skim@cpan.org>';
+author 'Michal Spacek <skim@cpan.org>';
 license 'bsd';
 name 'Error-Pure-Output-Tags-HTMLCustomPage';
 readme_from 'HTMLCustomPage.pm';

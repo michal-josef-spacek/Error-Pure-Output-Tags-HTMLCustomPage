@@ -1,7 +1,7 @@
 ---
 abstract: 'Error::Pure HTML output helper.'
 author:
-  - 'Michal Špaček <skim@cpan.org>'
+  - 'Michal Spacek <skim@cpan.org>'
 build_requires:
   ExtUtils::MakeMaker: 6.36
   File::Spec::Functions: 0
