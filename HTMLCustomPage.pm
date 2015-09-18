@@ -127,7 +127,7 @@ Error::Pure::Output::Tags::HTMLCustomPage - Error::Pure HTML output helper.
  # Cache-Control: no-cache
  # Date: Wed, 03 Sep 2014 11:48:37 GMT
  # Content-Type: application/xhtml+xml
- # 
+ #
  # <?xml version="1.0" encoding="utf-8" standalone="no"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html>
  #   <head>
  #     <title>
@@ -173,7 +173,7 @@ Error::Pure::Output::Tags::HTMLCustomPage - Error::Pure HTML output helper.
  # Cache-Control: no-cache
  # Date: Wed, 03 Sep 2014 11:54:37 GMT
  # Content-Type: application/xhtml+xml
- # 
+ #
  # <?xml version="1.0" encoding="utf-8" standalone="no"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head><title>Foo</title></head><div>Bar</div></html>
 
 =head1 DEPENDENCIES
