@@ -1,6 +1,7 @@
 0.03
  - Add minimal version of Perl.
  - Fix test dependencies.
+ - Improve AUTHOR section in doc.
  - Improve LICENSE AND COPYRIGHT section in doc.
  - Improve SEE ALSO section in doc.
  - Move author tests to xt/ directory.
