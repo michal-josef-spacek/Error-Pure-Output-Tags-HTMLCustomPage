@@ -93,6 +93,8 @@ Error::Pure::Output::Tags::HTMLCustomPage - Error::Pure HTML output helper.
 
 =head1 EXAMPLE1
 
+=for comment filename=error_as_html_indent.pl
+
  use strict;
  use warnings;
 
@@ -136,6 +138,8 @@ Error::Pure::Output::Tags::HTMLCustomPage - Error::Pure HTML output helper.
  # </html>
 
 =head1 EXAMPLE2
+
+=for comment filename=error_as_html_raw.pl
 
  use strict;
  use warnings;
