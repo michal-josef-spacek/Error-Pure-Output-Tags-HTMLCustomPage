@@ -21,9 +21,9 @@ requires 'Readonly' => 0;
 requires 'perl' => '5.8.0';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Error-Pure-Output-Tags-HTMLCustomPage';
-resources 'homepage' => 'https://github.com/tupinek/'.
+resources 'homepage' => 'https://github.com/michal-josef-spacek/'.
 	'Error-Pure-Output-Tags-HTMLCustomPage';
-resources 'repository' => 'git://github.com/tupinek/'.
+resources 'repository' => 'git://github.com/michal-josef-spacek/'.
 	'Error-Pure-Output-Tags-HTMLCustomPage';
 test_requires 'Test::NoWarnings' => 0;
 test_requires 'Test::More' => 0;

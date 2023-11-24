@@ -186,7 +186,7 @@ Install the Error::Pure modules.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Error-Pure-Output-Tags-HTMLCustomPage>
+L<https://github.com/michal-josef-spacek/Error-Pure-Output-Tags-HTMLCustomPage>
 
 =head1 AUTHOR
 

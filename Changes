@@ -1,6 +1,7 @@
 0.04
  - Fix use lib '.' in Makefile.PL.
  - Update Module::Install to 1.21 version.
+ - Update author github username.
  - Update author name.
 
 0.03 2015-09-18T10:06:48+02:00
