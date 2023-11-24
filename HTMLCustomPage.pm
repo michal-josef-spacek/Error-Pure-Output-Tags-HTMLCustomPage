@@ -176,6 +176,7 @@ Error::Pure::Output::Tags::HTMLCustomPage - Error::Pure HTML output helper.
 
 =head1 DEPENDENCIES
 
+L<Exporter>,
 L<HTTP::Headers::Fast>,
 L<Readonly>.
 
