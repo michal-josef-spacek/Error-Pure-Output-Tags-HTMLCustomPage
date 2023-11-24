@@ -1,10 +1,8 @@
 #!/usr/bin/env perl
 
-# Pragmas.
 use strict;
 use warnings;
 
-# Modules.
 use Error::Pure::Output::Tags::HTMLCustomPage qw(err_pretty);
 use Tags::Output::Indent;
 

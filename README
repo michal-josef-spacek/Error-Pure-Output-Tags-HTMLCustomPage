@@ -12,11 +12,9 @@ SUBROUTINES
              Helper routine use Tags $tags_obj object and print output to stdout.
 
 EXAMPLE1
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Error::Pure::Output::Tags::HTMLCustomPage qw(err_pretty);
      use Tags::Output::Indent;
 
@@ -57,11 +55,9 @@ EXAMPLE1
      # </html>
 
 EXAMPLE2
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Error::Pure::Output::Tags::HTMLCustomPage qw(err_pretty);
      use Tags::Output::Raw;
 

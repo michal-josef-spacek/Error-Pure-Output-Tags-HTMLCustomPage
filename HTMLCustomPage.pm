@@ -1,11 +1,9 @@
 package Error::Pure::Output::Tags::HTMLCustomPage;
 
-# Pragmas.
 use base qw(Exporter);
 use strict;
 use warnings;
 
-# Modules.
 use HTTP::Headers::Fast;
 use Readonly;
 
@@ -14,7 +12,6 @@ Readonly::Array our @EXPORT_OK => qw(err_pretty);
 Readonly::Scalar my $EMPTY_STR => q{};
 Readonly::Scalar my $SPACE => q{ };
 
-# Version.
 our $VERSION = 0.04;
 
 # Pretty print.
@@ -95,11 +92,9 @@ Error::Pure::Output::Tags::HTMLCustomPage - Error::Pure HTML output helper.
 
 =head1 EXAMPLE1
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Error::Pure::Output::Tags::HTMLCustomPage qw(err_pretty);
  use Tags::Output::Indent;
 
@@ -141,11 +136,9 @@ Error::Pure::Output::Tags::HTMLCustomPage - Error::Pure HTML output helper.
 
 =head1 EXAMPLE2
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Error::Pure::Output::Tags::HTMLCustomPage qw(err_pretty);
  use Tags::Output::Raw;
 
