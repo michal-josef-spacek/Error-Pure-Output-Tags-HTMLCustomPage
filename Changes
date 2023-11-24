@@ -1,5 +1,6 @@
 0.04
  - Update Module::Install to 1.21 version.
+ - Update author name.
 
 0.03 2015-09-18T10:06:48+02:00
  - Add minimal version of Perl.
