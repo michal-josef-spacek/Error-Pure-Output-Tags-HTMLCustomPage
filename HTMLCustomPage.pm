@@ -78,6 +78,7 @@ Error::Pure::Output::Tags::HTMLCustomPage - Error::Pure HTML output helper.
 =head1 SYNOPSIS
 
  use Error::Pure::Output::Tags::HTMLCustomPage qw(err_pretty);
+
  err_pretty($tags_obj, $encoding, $content_type, $xml_version, $tags_structure_ar);
 
 =head1 SUBROUTINES
