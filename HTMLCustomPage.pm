@@ -12,7 +12,7 @@ Readonly::Array our @EXPORT_OK => qw(err_pretty);
 Readonly::Scalar my $EMPTY_STR => q{};
 Readonly::Scalar my $SPACE => q{ };
 
-our $VERSION = 0.04;
+our $VERSION = 0.05;
 
 # Pretty print.
 sub err_pretty {
@@ -208,6 +208,6 @@ BSD 2-Clause License
 
 =head1 VERSION
 
-0.04
+0.05
 
 =cut
